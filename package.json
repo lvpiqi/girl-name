@@ -1,0 +1,16 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "Name generator using DeepSeek API",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+} 
